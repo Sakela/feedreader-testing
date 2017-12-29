@@ -88,7 +88,9 @@ $(function() {
         });
 
         it('should load at least one feed after complete async request', function(done) {
-            expect($('.feed .entry')).not.toBeEmpty();
+            var entryElem = $('.feed .entry');
+            
+            expect(entryElem.length).toBeGreaterThan(0);
             done();
         });
     });
