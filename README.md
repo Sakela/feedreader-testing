@@ -1,4 +1,4 @@
-# Feedreader App Testing with Jasmine (Project 6 Udacity Front-End NanoDegree)
+# Feedreader Testing (Udacity Front-End Project 6)
 
 In this project I was given a web-based application that reads RSS feeds. I was provided with [Jasmine](http://jasmine.github.io/) library to write my test suites and make sure the required functionality passes.
 
