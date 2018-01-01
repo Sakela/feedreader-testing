@@ -1,4 +1,4 @@
-# Feed Reader Testing (Udacity Front-End Project 6)
+# Feed Reader Testing (Udacity Front-End Project 7)
 
 In this project I was given a web-based application that reads RSS feeds. I was provided with [Jasmine](http://jasmine.github.io/) library to write my test suites and make sure the required functionality passes.
 
