@@ -6,7 +6,7 @@
  * jQuery.
  */
 
-// The names and URLs to all of the feeds we'd like available.
+// The names and URLs to all of the feeds we'd like to have available.
 var allFeeds = [
     {
         name: 'Udacity Blog',
